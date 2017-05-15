@@ -1,0 +1,11 @@
+{
+  "name": "CollabOrgChat",
+  "version": "0.0.1",
+  "description": "Chat application using websocket",
+  "dependencies": {
+    "express": "^4.15.2",
+    "firebase-admin": "^4.2.1",
+    "js-sha256": "^0.5.0",
+    "ws": "^2.3.1"
+  }
+}
