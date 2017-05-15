@@ -1,0 +1,18 @@
+{
+  "messages" : {
+    "msg1" : {
+      "origin" : "Admin",
+      "name" : "Admin",
+      "org" : "CollaOrg Chat",
+      "text" : "New Node created..",
+      "photoUrl": "/images/profile_placeholder.png"
+    },
+    "msg2" : {
+      "origin" : "Admin",
+      "name" : "Admin",
+      "org" : "CollaOrg Chat",
+      "text" : "Welcome from the team",
+      "photoUrl": "/images/profile_placeholder.png"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+[
+    {
+      "origin": "Admin",
+      "name" : "Admin",
+      "org" : "CollabOrg Chat",
+      "text" : "New Node created..",
+      "photoUrl": "/images/profile_placeholder.png"
+    },
+    {
+      "origin": "Admin",
+      "name" : "Admin",
+      "org" : "CollabOrg Chat",
+      "text" : "Welcome from the team",
+      "photoUrl": "/images/profile_placeholder.png"
+    }
+]
